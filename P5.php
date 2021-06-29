@@ -63,7 +63,7 @@
 	$type="";
 	$bal=0;
 	
-	$mysql=new mysqli("localhost","root","","shreya");
+	$mysql=new mysqli("localhost","root","","bb");
 	if(!$mysql) 
 	{
 		die("ERROR!!!");
